@@ -1,0 +1,8 @@
+﻿  Connection.cpp
+  MainForm.cpp
+MainForm.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+c:\users\kobbe\onedrive\documents\visual studio 2015\projects\p3darduinoprogram\p3darduinoprogram\connection.cpp(116): warning C4715: 'openSimConnection' : not all control paths return a value
+LINK : warning LNK4044: unrecognized option '/target:winexe'; ignored
+LINK : warning LNK4044: unrecognized option '/target:winexe'; ignored
+  P3DArduinoProgram.vcxproj -> C:\Users\kobbe\OneDrive\Documents\Visual Studio 2015\Projects\P3DArduinoProgram\Debug\P3DArduinoProgram.exe
